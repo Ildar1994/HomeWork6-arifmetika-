@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="math" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-29T17:17:04" hostname="HP" time="0.023">
+  <properties/>
+  <testcase name="ArifmetikaTest()" classname="math" time="0.023"/>
+  <system-out><![CDATA[8
+1
+4
+1
+8.0
+1.0
+14.0
+1.3333333333333333
+false
+true
+true
+false
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
